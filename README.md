@@ -25,10 +25,13 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+I'm a passionate and detail-oriented developer building a strong foundation in modern full-stack development. I enjoy creating clean, functional applications by combining robust back-end logic with intuitive user interfaces.
+I'm always trying to learn new things to improve my code & workflows.
 
-I'm Yannick from Belgium.<br>
-- 🔭 I'm trying to become  a Full Stack developer
-- 📚 I'm currently learning Astro and React
+- 🔭 I'm trying to become a Full Stack developer
+- 📚 I'm currently learning the Astro and React ecosystem for building modern web apps.
+- 💡 Interested In: Opportunities where I can contribute to meaningful projects, learn from experienced teams, and grow as a developer.
+- 🛠️ Main Tech Stack: `TypeScript` `Vue` `Angular` `C# .NET`
 - ⚡ In my free time I love to code silly projects
 
 ###

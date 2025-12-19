@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -26,7 +26,10 @@
 
 ###
 
-<p align="left">I'm Yannick from Belgium.<br><br>- 🔭 I'm trying to become  a Full Stack developer<br>- 📚 I'm currently learning Astro and React<br>- ⚡ In my free time I love to code silly projects</p>
+I'm Yannick from Belgium.<br>
+- 🔭 I'm trying to become  a Full Stack developer
+- 📚 I'm currently learning Astro and React
+- ⚡ In my free time I love to code silly projects
 
 ###
 
